@@ -1,5 +1,6 @@
 Space Invader Description
-	-	Game Size : 900px X 500px
+	
+	- 	Game Size : 900px X 500px
 	-	Button : START, PAUSE, HELP
 	-	Input Key : Left Arrow( move left ),  Right Arrow ( move right) and Up Arrow ( fire missile )
 	-	Player Lives : 3
