@@ -2,15 +2,15 @@ Space Invader Description
 	
 	- 	Game Size : 900px X 500px
 	-	Button : START, PAUSE, HELP
-	-	Input Key : Left Arrow( move left ),  Right Arrow ( move right) and Up Arrow ( fire missile )
+	-	Input Key : Left Arrow(move left),  Right Arrow(move right) and Up Arrow (fire missile)
 	-	Player Lives : 3
 	-	Number of Invaders : 24 , 3 Rows and 8 Columns
-	-	Score : 1 point for 1 invader in level 1 2 points for 1 invader in level 2, 3 points for 1 invader in level 3, score is accumulative.  
+	-	Score : 1 point for 1 invader in level 1 2 points for 1 invader in level 2, 3 points for 1 invader in level 	3, score is accumulative.  
 	-	Level : player can play up to 3 levels (Max 3 stages)
 	-	Player can fire only 1 missile on the screen every time
 	-	Game status : Victory and Defeat
 	-	Victory: player win the game after the last stage, show score and level
-	-	Defeat: player lose when 3 lives are gone, player lose when enemy hits the ground, show score and current level
+	-	Defeat: player lose when 3 lives are gone, player lose when enemy hits the ground, show score and current 		level
 	-	As invaders move down, their speed and fire chance(from enemy) are increasing 
 
 
